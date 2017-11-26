@@ -1,0 +1,14 @@
+E:\Projects\cvnsserver\src\main\java\net\pvytykac\cvns\db\MongoProperties.java
+E:\Projects\cvnsserver\src\main\java\net\pvytykac\cvns\resources\person\PersonResource.java
+E:\Projects\cvnsserver\src\main\java\net\pvytykac\cvns\transform\impl\PersonTransformer.java
+E:\Projects\cvnsserver\src\main\java\net\pvytykac\cvns\model\Dbo.java
+E:\Projects\cvnsserver\src\main\java\net\pvytykac\cvns\db\MongoConfig.java
+E:\Projects\cvnsserver\src\main\java\net\pvytykac\cvns\CvnsApplication.java
+E:\Projects\cvnsserver\src\main\java\net\pvytykac\cvns\resources\person\dto\PersonDto.java
+E:\Projects\cvnsserver\src\main\java\net\pvytykac\cvns\resources\person\dto\UpdatePersonDto.java
+E:\Projects\cvnsserver\src\main\java\net\pvytykac\cvns\model\impl\PersonDbo.java
+E:\Projects\cvnsserver\src\main\java\net\pvytykac\cvns\resources\person\dto\CreatePersonDto.java
+E:\Projects\cvnsserver\src\main\java\net\pvytykac\cvns\service\PersonService.java
+E:\Projects\cvnsserver\src\main\java\net\pvytykac\cvns\transform\Transformer.java
+E:\Projects\cvnsserver\src\main\java\net\pvytykac\cvns\dao\PersonDao.java
+E:\Projects\cvnsserver\src\main\java\net\pvytykac\cvns\service\impl\PersonServiceImpl.java
