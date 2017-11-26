@@ -1,9 +1,0 @@
-net\pvytykac\cvns\resources\person\dto\PersonDto.class
-net\pvytykac\cvns\model\Dbo.class
-net\pvytykac\cvns\model\impl\PersonDbo.class
-net\pvytykac\cvns\transform\impl\PersonTransformer.class
-net\pvytykac\cvns\transform\Transformer.class
-net\pvytykac\cvns\CvnsApplication.class
-net\pvytykac\cvns\service\PersonService.class
-net\pvytykac\cvns\resources\person\PersonResource.class
-net\pvytykac\cvns\dao\PersonDao.class
